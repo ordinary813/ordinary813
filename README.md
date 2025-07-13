@@ -1,6 +1,6 @@
-- 🎓 B.Sc. in Computer Science  
-- 💻 Software Developer  
-- 🧩 Skilled in full-stack web development (React, Node.js, MongoDB)
+🎓 B.Sc. in Computer Science  
+💻 Software Developer  
+🧩 Skilled in full-stack web development (React, Node.js, MongoDB)
 
 ---
 
